@@ -137,7 +137,9 @@ opacity: 0;
 }
 #feed img{
   width: 100%;
-  height: auto;
+  height: 320px;
+  object-fit: cover;
+  object-position: center;
 }
 #story_card{
   height: 3em;
